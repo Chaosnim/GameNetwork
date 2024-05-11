@@ -1,7 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
-}
+    border-color: BlueViolet;
+    border-width: 5px;
+    }
 
 header {
     background-color: #ff5733; /* Flashy color for the header */
